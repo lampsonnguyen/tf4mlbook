@@ -6,3 +6,4 @@ Welcome to the official book repository for [_TensorFlow for Machine Intelligenc
 
 * **Code:** You'll find code for each chapter inside of the [chapters directory](https://github.com/backstopmedia/tensorflowbook/tree/master/chapters)
 * **Errata:** Errata will be added to the [errata](https://github.com/backstopmedia/tensorflowbook/tree/master/errata) directory as they are discovered. Send in a pull request if you have errata to report!
+https://www.scribd.com/document/328495845/TensorFlow-for-Machine-Intelligence
